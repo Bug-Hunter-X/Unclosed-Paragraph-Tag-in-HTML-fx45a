@@ -1,0 +1,1 @@
+This repository demonstrates a common yet easily overlooked error in HTML: unclosed paragraph tags.  The `bug.html` file contains the erroneous code, leading to unexpected rendering behavior in browsers. The `bugSolution.html` file provides the corrected version.
